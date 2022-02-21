@@ -37,7 +37,7 @@ We have collected 300 receipts as 100 receipts from one supermarket. So totally 
 <img src="https://github.com/aaivu/aaivu-information-extraction-from-receipts/blob/newBranch/docs/receipt_image_processing.png" width="600">
 </p>
 
-|  Steps	|  Description	| 
+|  Steps	|  Model/Algorithm	| 
 |:---------|:-----------	|
 | Background Removal    	| Canny Edge detection , hough line transform algorithms|
 | Receipt Image chunking     	| Efficient and Accurate Scene Text Detector (EAST), the pre-trained model was used to detect text regions in receipts.   	| 
